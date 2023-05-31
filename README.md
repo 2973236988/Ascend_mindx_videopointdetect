@@ -1,0 +1,1 @@
+# Ascend_mindx_videopointdetect
